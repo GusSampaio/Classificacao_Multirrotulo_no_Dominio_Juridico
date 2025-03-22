@@ -19,6 +19,3 @@ Exploraração e teste de diferentes algoritmos de classificação multirrótulo
 
 ### **Avaliação** 
 Avaliar os modelos utilizando métricas de classificação multirrótulo, com destaque para a F1-Score weighted, que será a métrica principal para identificar o modelo com melhor desempenho.
-
-## Conclusões
-Descubra
